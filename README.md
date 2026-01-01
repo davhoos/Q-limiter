@@ -1,2 +1,1 @@
-About
-set own download bandwidth limits for choosed application and create rules in windows (profi and enterprise edition)
+set own download bandwidth limits for choosed application and create rules in windows professional or enterprise edition - Project in testing phase... can involve functionality errors...
